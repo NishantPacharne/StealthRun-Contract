@@ -6,7 +6,7 @@ export namespace Constants {
   export const MINT_PRICE: u64 = 80000000000;
   export const MINT_FEE: bool = true;
   export const MAX_SUPPLY: u64 = 250;
-  export const URI: string = "https://ipfs.filebase.io/ipfs/QmWZuD5sMAmADznjVoja31XBd435fLCaAUV73qSKTF97X6/";
+  export const URI: string = "https://stingy-silver-mule.myfilebase.com/ipfs/Qma3UEo2z5L9TRAcZtyRv6DJ8F78vnWHuo9nA4LRRz5pJ3/";
   export const OWNER: Uint8Array = Base58.decode("14ZqhNkAD6v12ZKdUiUFd3xwSY7wQaEzsB");
 
   // token mint 
